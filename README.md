@@ -1,2 +1,2 @@
 # smallhexrexx
-school project
+Simple hexadecimal converter I made for school in Rexx
